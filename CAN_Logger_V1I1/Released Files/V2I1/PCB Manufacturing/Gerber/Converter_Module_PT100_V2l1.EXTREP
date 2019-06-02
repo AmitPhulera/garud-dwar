@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Converter_Module_PT100_V2l1.GBR   04-03-2019  17:12:46
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                L1                                      
+.GP1                L2(GND)                                 
+.GP2                L3(PWR)                                 
+.GBL                L4                                      
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM2                Board Outline                           
+.GM3                Board Dimention                         
+.GM4                Mechanical 4                            
+.GM10               Mechanical 10                           
+.GM15               Mechanical 15                           
+.GM16               Mechanical 16                           
+.GM25               Mechanical 25                           
+------------------------------------------------------------------------------------------

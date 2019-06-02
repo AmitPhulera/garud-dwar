@@ -1,0 +1,411 @@
+*************************************************************
+FileName = Converter_Module_PT100_V2l1.GBR
+AutoAperture = True
+*************************************************************
+Generating : L1
+      File : Converter_Module_PT100_V2l1.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : L2(GND)
+      File : Converter_Module_PT100_V2l1.GP1
+
+    Adding Layer      : L2(GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : L3(PWR)
+      File : Converter_Module_PT100_V2l1.GP2
+
+    Adding Layer      : L3(PWR)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : L4
+      File : Converter_Module_PT100_V2l1.GBL
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D18
+    D21
+    D28
+    D29
+    D30
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Converter_Module_PT100_V2l1.GPB
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D18
+    D21
+    D32
+    D33
+    D34
+    D35
+    D36
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Converter_Module_PT100_V2l1.GPT
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Converter_Module_PT100_V2l1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D29
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Converter_Module_PT100_V2l1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Converter_Module_PT100_V2l1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Converter_Module_PT100_V2l1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D57
+    D60
+    D63
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Converter_Module_PT100_V2l1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D18
+    D21
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Converter_Module_PT100_V2l1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D29
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Converter_Module_PT100_V2l1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Converter_Module_PT100_V2l1.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Converter_Module_PT100_V2l1.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D28
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Board Dimention
+      File : Converter_Module_PT100_V2l1.GM3
+
+    Adding Layer      : Board Dimention
+
+
+Used DCodes :
+    D50
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : Converter_Module_PT100_V2l1.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : Converter_Module_PT100_V2l1.GM10
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Converter_Module_PT100_V2l1.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D29
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : Converter_Module_PT100_V2l1.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 25
+      File : Converter_Module_PT100_V2l1.GM25
+
+    Adding Layer      : Mechanical 25
+
+
+Used DCodes :
+*************************************************************
+
