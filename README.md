@@ -38,7 +38,8 @@ Ideas belong to anyone who truly cares to solve that problem.
 
 ![Nagesh Nagshakti - Smart Meters](https://github.com/vicarious11/nag-shakti)
 
-***Love Smart Joules.***
+***Love** 
+**- Smart Joules***
 
 ***PS : Help us build a sustainable economy. It doesn't have to be a zero sum game!***
 
