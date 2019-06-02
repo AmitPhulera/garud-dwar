@@ -9,11 +9,13 @@
 ### Solution :
 * **Hardware (Garud)**
 * **App (Gaurav)** 
-* **Portal (Business)** 
+* **Portal (Dwar)** 
 
 **Business (Gaurav Garuddwar)**
 
-**Link to Design Document** - https://github.com/vimalsheoran/cheelghat/blob/master/CheelGhat-Hackathon.pdf
+**Link to Design Document** - https://github.com/AmitPhulera/garud-dwar/blob/master/Garud%20Dwar%20-%20Hackathon.pptx
+
+**Link to Pitch Document** - https://github.com/AmitPhulera/garud-dwar/blob/master/Garud%20Dwar%20-%20Pitch.pptx
 
 ***This is a call to arms.***
 
@@ -29,10 +31,10 @@ Ideas belong to anyone who truly cares to solve that problem.
 
 **If you are spreading the word, let's be friends.**
 
-**It's our prime responsible as the beneficiaries of this Earth that we give back to it in whatever way possible.**
+**It's our prime responsibility as the beneficiaries of this Earth that we give back to it in whatever way possible.**
 
 
-![Gaurav Garudwar - EV Mobility Adoption](https://github.com/AmitPhulera/garud-dwar)
+![Chandrika CheelGhat - CCMS Fault Detection](https://github.com/vimalsheoran/cheel-ghat)
 
 ![Nagesh Nagshakti - Smart Meters](https://github.com/vicarious11/nag-shakti)
 
