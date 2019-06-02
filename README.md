@@ -1,5 +1,5 @@
 # garud-dwar
-
+## EV Mobility
 ### Gaurav Garuddwar
 * **Harsh Joshi** 
 * **Farogh Iftekhar**
@@ -32,7 +32,6 @@ Ideas belong to anyone who truly cares to solve that problem.
 **If you are spreading the word, let's be friends.**
 
 **It's our prime responsibility as the beneficiaries of this Earth that we give back to it in whatever way possible.**
-
 
 ![Chandrika CheelGhat - CCMS Fault Detection](https://github.com/vimalsheoran/cheel-ghat)
 
